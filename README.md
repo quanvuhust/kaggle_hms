@@ -7,8 +7,8 @@ pip install mlflow
 pip install --upgrade timm
 ```
 # Split data
-Find Nan notebook: https://www.kaggle.com/code/quan0095/find-nan/\
-Split folds notebook: https://www.kaggle.com/code/quan0095/split-kfold-totalvote-hms/\
+Find Nan notebook: https://www.kaggle.com/code/quan0095/find-nan/ \
+Split folds notebook: https://www.kaggle.com/code/quan0095/split-kfold-totalvote-hms/ \
 Copy *.csv files to data directory.
 # Training
 ```
